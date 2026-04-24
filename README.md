@@ -140,19 +140,23 @@ print(f'Prediction: {prediction}')
 ```
 
 ### Dataset Information
-<img width="473" height="372" alt="image" src="https://github.com/user-attachments/assets/23814d3b-4590-49dc-adb5-1008c3e293fd" />
+<img width="308" height="456" alt="image" src="https://github.com/user-attachments/assets/29f106f9-c69c-4bbc-be1d-5bc8b5236c50" />
+
 
 
 ### OUTPUT
-<img width="440" height="241" alt="image" src="https://github.com/user-attachments/assets/71b20152-a393-4c64-bdba-210499f216e4" />
+<img width="475" height="243" alt="image" src="https://github.com/user-attachments/assets/57f0c1ed-f375-48e5-9ca5-ce8a2758b6df" />
+
 
 
 ### Training Loss Vs Iteration Plot
-<img width="571" height="455" alt="image" src="https://github.com/user-attachments/assets/6f172f01-21c1-460e-ad91-b419796900e4" />
+<img width="746" height="580" alt="image" src="https://github.com/user-attachments/assets/a4ac021c-e4a5-496a-b0de-8c8fdf3d4234" />
+
 
 
 ### New Sample Data Prediction
-<img width="297" height="41" alt="image" src="https://github.com/user-attachments/assets/83e6694d-d56a-4420-a1d7-7678bd9c73ed" />
+<img width="656" height="67" alt="image" src="https://github.com/user-attachments/assets/f70f56d8-189e-40a8-b07b-22707efde434" />
+
 
 
 
